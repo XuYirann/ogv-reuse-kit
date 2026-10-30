@@ -1,0 +1,30 @@
+{
+  "platform": {
+    "periods": ["25Q2", "26Q2"],
+    "series": [
+      {"name":"腾讯视频","values":[64.631185,43.861781]},
+      {"name":"bilibili","values":[12.618623,11.858559]},
+      {"name":"优酷","values":[1.773741,7.079071]},
+      {"name":"爱奇艺","values":[2.353030,2.003231]}
+    ]
+  },
+  "structure": {
+    "periods": ["25Q2", "26Q2"],
+    "series": [
+      {"name":"TOP10","values":[48.365126,41.038973]},
+      {"name":"TOP11–50","values":[33.011452,23.763668]}
+    ]
+  },
+  "top10": [
+    {"name":"仙逆","current":788784458,"previous":949137153},
+    {"name":"斗破苍穹年番","current":561405117,"previous":753435865},
+    {"name":"凡人修仙传","current":508397431,"previous":441471271},
+    {"name":"剑来第2季","current":419409651,"previous":null},
+    {"name":"完美世界","current":395687843,"previous":548506006},
+    {"name":"吞噬星空","current":351668705,"previous":413058151},
+    {"name":"沧元图","current":301777923,"previous":null},
+    {"name":"遮天","current":296599847,"previous":383535450},
+    {"name":"牧神记","current":263434299,"previous":null},
+    {"name":"一人之下第6季","current":216732036,"previous":null}
+  ]
+}

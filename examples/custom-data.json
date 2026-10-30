@@ -1,0 +1,13 @@
+{
+  "title": "示例业务收入（虚构演示数据）",
+  "template": "quarterly-stacked-bar",
+  "unit": "万元",
+  "source": "虚构演示数据",
+  "snapshot": "2026-10-30",
+  "quarter": "Q2",
+  "series": ["业务A", "业务B"],
+  "rows": [
+    {"period": "25Q2", "业务A": 100, "业务B": 60},
+    {"period": "26Q2", "业务A": 120, "业务B": 50}
+  ]
+}

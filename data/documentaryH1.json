@@ -1,0 +1,30 @@
+{
+  "unit": "万",
+  "source": "云合数据",
+  "periods": {
+    "25H1": [
+      { "rank": 1, "name": "《不破不立》——哪吒之魔童闹海幕后纪录片", "plays": 8676, "genre": "衍生幕后", "subgenre": "电影衍生", "platforms": ["爱奇艺", "芒果TV", "腾讯视频", "优酷", "哔哩哔哩", "央视频"] },
+      { "rank": 2, "name": "《拍案说法》", "plays": 6386, "genre": "罪案", "subgenre": "职业纪实", "platforms": ["央视频"] },
+      { "rank": 3, "name": "《中国通史》", "plays": 4232, "genre": "历史", "subgenre": "历史", "platforms": ["爱奇艺", "优酷", "哔哩哔哩", "央视频"] },
+      { "rank": 4, "name": "《闪闪的儿科医生2》", "plays": 3435, "genre": "医疗", "subgenre": "职业纪实", "platforms": ["哔哩哔哩"] },
+      { "rank": 5, "name": "《博物馆之夜》", "plays": 3208, "genre": "人文", "subgenre": "文化", "platforms": ["爱奇艺", "腾讯视频", "优酷", "哔哩哔哩", "央视频"] },
+      { "rank": 6, "name": "《你好，12315》", "plays": 3067, "genre": "职业纪实", "subgenre": "职业纪实", "platforms": ["哔哩哔哩"] },
+      { "rank": 7, "name": "《舌尖上的中国第四季》", "plays": 2816, "genre": "美食", "subgenre": "美食", "platforms": ["爱奇艺", "哔哩哔哩"] },
+      { "rank": 8, "name": "《一路前行第二季》", "plays": 2805, "genre": "自然", "subgenre": "自然", "platforms": ["爱奇艺", "腾讯视频", "优酷"] },
+      { "rank": 9, "name": "《带你探索地球（中配版）》", "plays": 2672, "genre": "探险", "subgenre": "探险、荒野求生类", "platforms": ["哔哩哔哩"] },
+      { "rank": 10, "name": "《风味人间·精华版》", "plays": 2561, "genre": "美食", "subgenre": "美食", "platforms": ["腾讯视频"] }
+    ],
+    "26H1": [
+      { "rank": 1, "name": "《你好，急诊医生——星空下的人医》", "plays": 9956, "genre": "医疗", "subgenre": "医疗纪实", "platforms": ["央视频"] },
+      { "rank": 2, "name": "《你好，儿科医生第四季》", "plays": 7163, "genre": "医疗", "subgenre": "医疗纪实", "platforms": ["央视频"] },
+      { "rank": 3, "name": "《守护解放西·探案季》", "plays": 6304, "genre": "职业纪实", "subgenre": "执法警务纪实", "platforms": ["哔哩哔哩"] },
+      { "rank": 4, "name": "《中国通史》", "plays": 4132, "genre": "历史", "subgenre": "历史类", "platforms": ["爱奇艺", "腾讯视频", "优酷", "哔哩哔哩"] },
+      { "rank": 5, "name": "《守护解放西6》", "plays": 3670, "genre": "职业纪实", "subgenre": "执法警务纪实", "platforms": ["哔哩哔哩"] },
+      { "rank": 6, "name": "《中国医生3：急诊24小时》", "plays": 3024, "genre": "医疗", "subgenre": "医疗纪实", "platforms": ["爱奇艺", "腾讯视频", "优酷", "哔哩哔哩"] },
+      { "rank": 7, "name": "《中国家宴第三季》", "plays": 2481, "genre": "美食", "subgenre": "中国本土美食", "platforms": ["央视频"] },
+      { "rank": 8, "name": "《十三邀第九季》", "plays": 2042, "genre": "人文", "subgenre": "访谈/人物类", "platforms": ["腾讯视频"] },
+      { "rank": 9, "name": "《探索新境第2季》", "plays": 1951, "genre": "探险", "subgenre": "探险、竞赛类", "platforms": ["腾讯视频"] },
+      { "rank": 10, "name": "《案件聚焦》", "plays": 1807, "genre": "罪案", "subgenre": "硬核科普类", "platforms": ["哔哩哔哩"] }
+    ]
+  }
+}

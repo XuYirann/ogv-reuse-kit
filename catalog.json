@@ -1,0 +1,356 @@
+{
+  "version": "0.1.0",
+  "packaged_at": "2026-10-30",
+  "snapshot_origin": "本地复盘项目 app/data 静态文件，不代表在线后台最新发布版本",
+  "datasets": [
+    {
+      "id": "animationTop50",
+      "path": "data/animationTop50.json",
+      "top_level_fields": [
+        "platform",
+        "structure",
+        "top10"
+      ],
+      "source": null,
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "animationTrend",
+      "path": "data/animationTrend.json",
+      "top_level_fields": [
+        "source",
+        "periods",
+        "total",
+        "japanese",
+        "chinese",
+        "newRelease",
+        "supply"
+      ],
+      "source": "云和数据，战略发展部分析",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "animationVvRanking",
+      "path": "data/animationVvRanking.json",
+      "top_level_fields": null,
+      "source": null,
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "documentaryH1",
+      "path": "data/documentaryH1.json",
+      "top_level_fields": [
+        "unit",
+        "source",
+        "periods"
+      ],
+      "source": "云合数据",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "documentaryPlatforms",
+      "path": "data/documentaryPlatforms.json",
+      "top_level_fields": [
+        "《不破不立》-哪吒之魔童闹海幕后纪录片",
+        "案件聚焦",
+        "宝贝星球",
+        "兵器科技",
+        "博物馆之夜",
+        "捕食者的隐秘世界",
+        "布达拉宫",
+        "彩色二战",
+        "淬火",
+        "大抗战",
+        "大自然的女王",
+        "带你探索地球（中配版）",
+        "单挑荒野：水之章",
+        "地球（2023）",
+        "地球脉动第三季",
+        "第一餐2",
+        "法治天下2017",
+        "法治天下2018",
+        "法治天下2019",
+        "法治天下2021",
+        "风味人间·精华版",
+        "风味人间第5季",
+        "凤凰：她的传奇",
+        "航拍看中国第4季",
+        "何以中国",
+        "黄河味道",
+        "激流第二季",
+        "街边下饭魂第二季",
+        "解释鸿沟",
+        "老广的味道第九季",
+        "老广的味道第十季",
+        "历史那些事",
+        "流言终结者第一季",
+        "你好，12315",
+        "牛奶是部文明史",
+        "拍案说法",
+        "奇食记2",
+        "千古风流人物第4季",
+        "清宫秘档第一季",
+        "人间有味山河鲜第3季",
+        "人生海海",
+        "山海经奇",
+        "闪闪的儿科医生2",
+        "闪闪的儿科医生3",
+        "舌尖上的中国第四季",
+        "生灵奇旅",
+        "生命奇观",
+        "十三邀第八季",
+        "史记·华夏风云",
+        "守护解放西4",
+        "守护解放西5",
+        "太阳系",
+        "探索新境·寻找王一博",
+        "天网：“案”藏玄机",
+        "天网：案件真相",
+        "天网：血色花季",
+        "天网：罪案疑云",
+        "味道大师",
+        "我的美食向导",
+        "宵夜江湖第3季",
+        "小酸村",
+        "寻色中国",
+        "亚洲",
+        "扬声",
+        "一江百味2·鸭绿江篇味",
+        "遇见最极致的中国",
+        "原始求生记：逃出亚马逊",
+        "中国通史",
+        "中国刑侦实录第二季",
+        "宵夜江湖第4季",
+        "二战风云",
+        "穿越极致美洲",
+        "连体双胞胎",
+        "欢迎你来到我的人生",
+        "左宗棠收复新疆",
+        "红色记忆",
+        "杨振宁：百年科学之路",
+        "看不见的更年期",
+        "去你家吃饭好吗3",
+        "大阅兵（2025）",
+        "游弋在风暴之中",
+        "废柴英雄",
+        "守护解放西6",
+        "老馆正浪",
+        "我们的故宫",
+        "是烧烤啊·街头美食精编",
+        "百家讲坛之易中天品三国",
+        "你好，皮肤科医生",
+        "动物王国（2025）",
+        "福建一百吃",
+        "天使也有实习期",
+        "百家讲坛王立群读《史记》秦始皇",
+        "山河英雄传",
+        "虫虫历险记第二季",
+        "探索新境第2季",
+        "你好，急诊医生——星空下的人医",
+        "德爷的登阶奇旅",
+        "动物王国【普通话版】",
+        "中国家宴第三季",
+        "是海鲜啊·海味美食精编",
+        "重返·狼群",
+        "中国医生3：急诊24小时",
+        "你的礼物到了",
+        "十三邀第九季",
+        "舌尖上的中国年",
+        "人间洗剧",
+        "守护解放西·探索季",
+        "是碳水啊·诱人美食精编",
+        "老广的味道第十一季",
+        "你好，12315第二季",
+        "味道中国第二季",
+        "守护解放西·探案季",
+        "第二次心跳",
+        "这就是中国",
+        "航拍中国第一季",
+        "你好，儿科医生第四季",
+        "凌探未来",
+        "了不起的妈妈第2季",
+        "闪闪的儿科医生4",
+        "地球·劫后重生",
+        "冒险雷探长"
+      ],
+      "source": null,
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "documentaryRanking",
+      "path": "data/documentaryRanking.json",
+      "top_level_fields": [
+        "source",
+        "availableQuarters",
+        "comparisons"
+      ],
+      "source": "2.6_分品类_纪录片.xlsx",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "filmBoxOffice",
+      "path": "data/filmBoxOffice.json",
+      "top_level_fields": [
+        "periods",
+        "values",
+        "source"
+      ],
+      "source": "云合数据",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "filmProjectShare",
+      "path": "data/filmProjectShare.json",
+      "top_level_fields": [
+        "periods",
+        "source"
+      ],
+      "source": "云合数据",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "filmTop10",
+      "path": "data/filmTop10.json",
+      "top_level_fields": [
+        "newRelease",
+        "catalog",
+        "source"
+      ],
+      "source": "云合数据",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "filmTrend",
+      "path": "data/filmTrend.json",
+      "top_level_fields": [
+        "total",
+        "coverage",
+        "platform",
+        "source"
+      ],
+      "source": "云合数据、内部版权覆盖统计",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "horizontalDramaTrend",
+      "path": "data/horizontalDramaTrend.json",
+      "top_level_fields": [
+        "unit",
+        "source",
+        "total",
+        "platform",
+        "efficiency",
+        "shortDrama"
+      ],
+      "source": "云合数据",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "longVideoRevenue",
+      "path": "data/longVideoRevenue.json",
+      "top_level_fields": [
+        "source",
+        "membership",
+        "advertising",
+        "members",
+        "arppu"
+      ],
+      "source": "1.2_长视频收入结构.xlsx；公司财报、专家访谈、战略发展部分析",
+      "status": "ready"
+    },
+    {
+      "id": "platformAudienceDau",
+      "path": "data/platformAudienceDau.json",
+      "top_level_fields": [
+        "metric",
+        "unit",
+        "source",
+        "periods",
+        "series"
+      ],
+      "source": "QuestMobile",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "platformAudienceMau",
+      "path": "data/platformAudienceMau.json",
+      "top_level_fields": [
+        "metric",
+        "unit",
+        "source",
+        "periods",
+        "series"
+      ],
+      "source": "QuestMobile",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "platformAudienceOverlap",
+      "path": "data/platformAudienceOverlap.json",
+      "top_level_fields": [
+        "metric",
+        "unit",
+        "source",
+        "periods",
+        "series"
+      ],
+      "source": "QuestMobile",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "platformAudienceTotalDuration",
+      "path": "data/platformAudienceTotalDuration.json",
+      "top_level_fields": [
+        "metric",
+        "unit",
+        "source",
+        "periods",
+        "series"
+      ],
+      "source": "QuestMobile",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "shortDramaRevenue",
+      "path": "data/shortDramaRevenue.json",
+      "top_level_fields": [
+        "source",
+        "iap",
+        "iaa",
+        "liveAction",
+        "ai"
+      ],
+      "source": "QuestMobile；行业规模测算",
+      "status": "reference_requires_metric_review"
+    },
+    {
+      "id": "varietyTrend",
+      "path": "data/varietyTrend.json",
+      "top_level_fields": [
+        "unit",
+        "source",
+        "periods",
+        "total",
+        "platform"
+      ],
+      "source": "云合数据",
+      "status": "reference_requires_metric_review"
+    }
+  ],
+  "templates": [
+    {
+      "id": "quarterly-stacked-bar",
+      "path": "templates/revenue.html",
+      "adapter": "scripts/render_chart.py",
+      "input_example": "examples/custom-data.json",
+      "status": "ready"
+    },
+    {
+      "id": "quarterly-line",
+      "path": "templates/revenue.html",
+      "adapter": "scripts/render_chart.py",
+      "input_example": "examples/custom-data.json",
+      "status": "ready"
+    }
+  ]
+}
